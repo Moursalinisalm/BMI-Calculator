@@ -1,0 +1,12 @@
+.env
+
+.DS_Store
+.idea
+__pycache__/
+venv/
+
+*.log
+*.sqlite3
+local_settings.py
+
+.coverage
